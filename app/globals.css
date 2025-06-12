@@ -1,5 +1,9 @@
 @import "tailwindcss";
 
+body {
+  font-family: Avenir Next, Nunito_sans, sans-serif;
+}
+
 @theme {
   --color-light: #FDFCFD;
   --color-dark: #140029;
